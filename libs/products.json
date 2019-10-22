@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "product1",
+        "price": "10",
+        "currency": "RUB",
+        "quantity": 1
+    },
+    {
+        "id": "2",
+        "name": "product2",
+        "price": "3",
+        "currency": "RUB",
+        "quantity": 1
+    },
+    {
+        "id": "3",
+        "name": "product3",
+        "price": "1085",
+        "currency": "RUB",
+        "quantity": 1
+    }
+]
